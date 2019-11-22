@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint>SJNeedIt</hint>
+        <name/>
+        <order>100</order>
+        <roles>x_58872_needit.needit_user,admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-21 22:26:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>63ac858ddb550010552129464896194b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SJ NeedIt</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_63ac858ddb550010552129464896194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-21 23:00:15</sys_updated_on>
+        <title>SJ NeedIt</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>34386471dbce3b08387021c405961959</instance_id>
+        <instance_name>dev87468</instance_name>
+        <name>sys_app_application_63ac858ddb550010552129464896194b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint>SJNeedIt</hint><name/><order>100</order><roles>x_58872_needit.needit_user,admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-21 22:26:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>63ac858ddb550010552129464896194b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>SJ NeedIt</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_63ac858ddb550010552129464896194b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-21 23:00:15</sys_updated_on><title>SJ NeedIt</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-670703004</payload_hash>
+        <record_name>SJ NeedIt</record_name>
+        <reverted_from/>
+        <source>65f94989db55001055212946489619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-21 23:00:15</sys_created_on>
+        <sys_id>76841d45db9500105521294648961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e9031d45e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-21 23:00:15</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>fe841d458a950010c02a493075079607</update_guid>
+        <update_guid_history>fe841d458a950010c02a493075079607:-670703004,959d81cd305500102b86c64ca0148dd8:970064869,c6dc4d8d4055001028bed1959b33953c:2026783042</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SJ NeedIt">cdced541dbd500105521294648961962</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2019-11-21 23:44:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>84e21264bb5343d5bb200d3c89bda089</sys_id>
+        <sys_metadata>63ac858ddb550010552129464896194b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SJ NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_63ac858ddb550010552129464896194b</sys_update_name>
+        <sys_update_version display_value="sys_app_application_63ac858ddb550010552129464896194b">76841d45db9500105521294648961908</sys_update_version>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2019-11-21 23:44:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
